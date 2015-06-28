@@ -6,6 +6,7 @@ package com.kmong.testproject;
 public class BananaItem {
 
     private int icon;
+    private int teset;
     private String name;
     private String cnt;
 
